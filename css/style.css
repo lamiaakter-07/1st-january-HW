@@ -1,0 +1,32 @@
+
+
+.title{
+
+	color:#ff0000  ;
+}
+.title{
+	background-color: rgb(0 255 0);
+}
+.bg{
+	color:white;
+}
+.bg{
+	background-color: rgb(0, 0, 255);
+}
+.text{
+	background-color: #dadada;
+	height:auto;
+	padding: 20px;
+}
+.box1{
+	height:120px;
+	width:120px;
+	background-color: green;
+	margin: 20px;
+}
+.box2{
+	height:120px;
+	width:120px;
+	background-color: red;
+	margin: 20px;
+}
